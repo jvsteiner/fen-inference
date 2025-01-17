@@ -1,0 +1,15 @@
+# Firebase
+.firebase/
+firebase-debug.log
+ui-debug.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/ 
+
