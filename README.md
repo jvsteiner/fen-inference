@@ -128,4 +128,8 @@ Monitor your service through the Google Cloud Console:
 
 ## License
 
-[Your License Here]
+MIT License. See [LICENSE](LICENSE) for details.
+
+## Acknowledgements
+
+This project is based on the work of [Jost Triller](https://github.com/tsoj/Chess_diagram_to_FEN).
